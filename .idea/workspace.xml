@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6303a39-cd44-464f-afe3-11af3a4196ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem116.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem112.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
@@ -58,6 +59,45 @@
                 <element signature="e#80#81#0" expanded="true" />
                 <element signature="e#106#107#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem113.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem114.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem115.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-214">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem116.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -82,10 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problem63.java" />
-        <option value="$PROJECT_DIR$/src/Problem64.java" />
-        <option value="$PROJECT_DIR$/src/Problem65.java" />
-        <option value="$PROJECT_DIR$/src/Problem66.java" />
         <option value="$PROJECT_DIR$/src/Problem67.java" />
         <option value="$PROJECT_DIR$/src/Problem71.java" />
         <option value="$PROJECT_DIR$/src/Problem70.java" />
@@ -133,13 +169,17 @@
         <option value="$PROJECT_DIR$/src/Problem109.java" />
         <option value="$PROJECT_DIR$/src/Problem111.java" />
         <option value="$PROJECT_DIR$/src/Problem112.java" />
+        <option value="$PROJECT_DIR$/src/Problem113.java" />
+        <option value="$PROJECT_DIR$/src/Problem114.java" />
+        <option value="$PROJECT_DIR$/src/Problem115.java" />
+        <option value="$PROJECT_DIR$/src/Problem116.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="1" />
-    <option name="width" value="1038" />
+    <option name="x" value="442" />
+    <option name="y" value="318" />
+    <option name="width" value="1304" />
     <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -262,18 +302,18 @@
       <workItem from="1560314838339" duration="1503000" />
       <workItem from="1560822180025" duration="17818000" />
       <workItem from="1561609892352" duration="11622000" />
-      <workItem from="1562465242303" duration="2324000" />
+      <workItem from="1562465242303" duration="6545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137232000" />
+    <option name="totallyTimeSpent" value="141453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17560321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10857909" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -402,30 +442,6 @@
     <SUITE FILE_PATH="coverage/leetcode$Problem84.ic" NAME="Problem84 Coverage Results" MODIFIED="1560996205004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/problem65.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/StrictMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="269" column="36" selection-start-line="269" selection-start-column="32" selection-end-line="269" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="338" column="26" lean-forward="true" selection-start-line="338" selection-start-column="26" selection-end-line="338" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem68.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="899">
@@ -804,6 +820,37 @@
             <element signature="e#80#81#0" expanded="true" />
             <element signature="e#106#107#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem114.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem115.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem116.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
