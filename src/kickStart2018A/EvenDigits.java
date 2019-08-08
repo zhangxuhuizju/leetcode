@@ -3,7 +3,7 @@ package kickStart2018A;
 import java.util.*;
 import java.io.*;
 
-public class evenDigits {
+public class EvenDigits {
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
         int T = in.nextInt();
