@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37d69257-028b-45c3-ba9f-c8556d84fc12" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/kickStart2018A/LuckyDip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kickStart2018A/evenDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kickStart2018A/EvenDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,20 +75,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+            <state relative-caret-position="335">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jdk/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="289" column="5" lean-forward="true" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -180,7 +167,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565252241473" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565313990488" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ThinkingInJava" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -287,7 +274,7 @@
       <workItem from="1563937007672" duration="20325000" />
       <workItem from="1564370308694" duration="3217000" />
       <workItem from="1564570500822" duration="2792000" />
-      <workItem from="1565179101670" duration="15335000" />
+      <workItem from="1565179101670" duration="20089000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563951973274</created>
@@ -307,7 +294,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42352000" />
+    <option name="totallyTimeSpent" value="47106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,10 +508,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        <state relative-caret-position="335">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
