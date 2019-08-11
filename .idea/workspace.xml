@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37d69257-028b-45c3-ba9f-c8556d84fc12" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kickStart2018B/NoNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,11 +73,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="263">
               <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kickStart2018B/NoNine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kickStart2019D/Solution1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/Problem1.java" />
         <option value="$PROJECT_DIR$/src/kickStart2018A/LuckyDip.java" />
         <option value="$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java" />
+        <option value="$PROJECT_DIR$/src/kickStart2018B/NoNine.java" />
       </list>
     </option>
   </component>
@@ -153,7 +179,13 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kickStart2018A" type="462c0819:PsiDirectoryNode" />
+              <item name="kickStart2018B" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kickStart2019D" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,7 +199,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565313990488" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565334415356" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ThinkingInJava" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -191,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScrambledWords">
+  <component name="RunManager" selected="Application.NoNine">
     <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kickStart2018A.EvenDigits" />
       <module name="leetcode" />
@@ -211,6 +243,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kickStart2018A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kickStart2018B.NoNine" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kickStart2018B.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,26 +283,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kickStart2019D.Solution1" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kickStart2019D.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoNine" />
         <item itemvalue="Application.ScrambledWords" />
         <item itemvalue="Application.LuckyDip" />
         <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.EvenDigits" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +306,7 @@
       <workItem from="1563937007672" duration="20325000" />
       <workItem from="1564370308694" duration="3217000" />
       <workItem from="1564570500822" duration="2792000" />
-      <workItem from="1565179101670" duration="20089000" />
+      <workItem from="1565179101670" duration="26098000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563951973274</created>
@@ -294,7 +326,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47106000" />
+    <option name="totallyTimeSpent" value="53115000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,16 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kickStart2019D/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="62" column="38" selection-start-line="62" selection-end-line="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem160.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -517,8 +539,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kickStart2018A/ScrambledWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="263">
           <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kickStart2019D/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kickStart2018B/NoNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
